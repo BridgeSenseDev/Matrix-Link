@@ -43,7 +43,7 @@
 
 [Polsu API](https://api.polsu.xyz/)<br>
 [Skyhelper Networth](https://github.com/Altpapier/SkyHelper-Networth)<br>
-[Unborn Hypixel](https://github.com/lilithmod/unborn-hypixel)<br>
+[Hypixel API Reborn](https://github.com/Hypixel-API-Reborn/Hypixel-API-Reborn)<br>
 [PlayerDB API](https://playerdb.co/)<br>
 [Hypixel API](https://api.hypixel.net/)<br>
 [Altpapier](https://github.com/altpapier/hypixel-discord-guild-bridge/)<br>
